@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <div className='left row'>
             <h1>Sankalp - Contact us and we'll get back to you</h1>
-            <span>Far far away, behind the word mountains</span>
+            <span></span>
           </div>
           <div className='right row'>
             <input type='text' placeholder='Enter email address' />
